@@ -35,9 +35,11 @@ void setUpBankDataBase(Bank* vbank)
 
 int main() {
     Bank vBank = Bank();
+    // you can change this function to change the bank database
     setUpBankDataBase(&vBank);
     
     CashBin cash_bin = CashBin();
+    // you can change this value to specify the cash in the bin
     cash_bin.pushInCash(5000);
     
     ATMController ATM(&vBank, &cash_bin);
