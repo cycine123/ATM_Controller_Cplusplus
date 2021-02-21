@@ -15,6 +15,7 @@ using namespace std;
 void setUpBankDataBase(Bank* vbank)
 {
     // only checking
+    // user name, account number
     BankAccount account1("Gin Tama", "1111");
     account1.createChecking(1000);
     // only saving

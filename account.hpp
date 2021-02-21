@@ -2,6 +2,7 @@
 //  account.hpp
 //  ATM_Controller
 //
+//  This file defines a simplified user bankaccount which may include checking account and saving account
 //  Created by Zheng Wang on 2/21/21.
 //
 

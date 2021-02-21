@@ -2,6 +2,8 @@
 //  bank.hpp
 //  ATM_Controller
 //
+//  This file defines a simplified banking system
+//
 //  Created by Zheng Wang on 2/21/21.
 //
 
