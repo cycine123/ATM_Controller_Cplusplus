@@ -21,14 +21,9 @@ There are following header files:
 
 Instruction:
 
-Download all of the files and save them under your folder of choice
-
-Open terminal and navigate to the folder where you saved all of the files
-
-Use the following commands to compile and run the code: 
-
-g++ -o run *.cpp -std=c++14
-
-./run
-
-Following the instructions on the terminal to test out the cases. You can look into main.cpp to check the bank database
+- Download all of the files and save them under your folder of choice
+- Open terminal and navigate to the folder where you saved all of the files
+- Use the following commands to compile and run the code: 
+- g++ -o run *.cpp -std=c++14
+- ./run
+- Follow the instructions on the terminal to test out the cases. You can look into main.cpp to check the bank database
